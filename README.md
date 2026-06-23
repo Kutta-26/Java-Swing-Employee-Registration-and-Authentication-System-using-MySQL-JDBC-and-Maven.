@@ -187,9 +187,6 @@ mvn exec:java
 ## 👨‍💻 Author
 
 **Surya Kutta**
-
-GitHub: https://github.com/YourUsername
-
 ---
 
 ## 📄 License
